@@ -1,6 +1,6 @@
 - Alex Nazarian
-- Software, Design, Process, Automation
 - Fresh out of bootcamp. Doing it live.
+- Software, Design, Process, Automation
 - The way to reach me is to think about me with your eyes closed in the dark, then whisper your truths to me
 
 <!---
